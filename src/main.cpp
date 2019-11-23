@@ -1,4 +1,7 @@
 #include <Arduino.h>
+#include <SPI.h>
+#include <SD.h>
+#include <SoftwareSerial.h>
 #include "Nextion.h"
 
 NexButton b0 = NexButton(0, 1, "b0");

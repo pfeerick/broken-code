@@ -32,5 +32,14 @@
 #include "NexSlider.h"
 #include "NexText.h"
 #include "NexWaveform.h"
+#include "NexTimer.h"
+#include "NexNumber.h"
+#include "NexDualStateButton.h"
+#include "NexVariable.h"
+#include "NexCheckbox.h"
+#include "NexRadio.h"
+#include "NexScrolltext.h"
+#include "NexGpio.h"
+#include "NexRtc.h"
 
 #endif /* #ifndef __NEXTION_H__ */
